@@ -1,7 +1,24 @@
 # BIB-Autologous-Tissue-Graft-Culture-ATGC
 
 ## Overview
+
 Our team is growing human skin cells
+
+### Abstract
+
+In This paper our team will dicuss our protocol for decellularizing different leaves from 
+different organism, and replace the space with skin cells 
+
+## Introduction
+
+The Skin is the largest organ of our body, and it is import to researchers to understand the 
+structure and functions of the skin. Skin is import for the cosmetic, pharmaceutical and medical 
+industries. Due the the ethical concerns regarding research of skin, researchers are looking for 
+ways to simulate the behavior of human skin.
+
+## Methods
+
+The first protocol we did is the chemical decellularization for spinach leaves <sup>insert source here</sup> .
 
 ## References
 
